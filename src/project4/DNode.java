@@ -79,7 +79,7 @@ public class DNode {
 
 	/******************************************************************
 	*Returns this nodes reference to the previous node in the list.
-	*@returns Dnode prev - returns value of this.prev
+	*@returns Dnode prev - value of this.prev
 	******************************************************************/
 	public DNode getPrev() {
 		return this.prev;
